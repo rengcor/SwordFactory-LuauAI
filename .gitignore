@@ -1,0 +1,11 @@
+# Project place file
+/test.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+# Lokale Dokumente (nicht auf GitHub)
+GDD.md
+
+agent.md
+steps/
